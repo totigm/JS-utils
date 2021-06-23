@@ -4,7 +4,7 @@ This is a collection of JavaScript snippets
 
 ## [camelCase](camelCase.js)
 This snippet converts a string to its camelCase notation.\
-For example, `This is not camel case, but it will` will return `ThisIsNotCamelCaseButItWill`
+For example, `This is not camel case, but it will` will return `thisIsNotCamelCaseButItWill`
 
 ## [Capitalize](capitalize.js)
 This snippet capitalizes a string.\
