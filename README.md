@@ -7,6 +7,11 @@ This is a collection of JavaScript snippets
 This snippet converts a string to its camelCase notation.\
 For example, `This is not camel case, but it will` will return `thisIsNotCamelCaseButItWill`
 
+## [PascalCase](PascalCase.js)
+
+This snippet converts a string to its PascalCase notation.\
+For example, `This is not pascal case, but it will` will return `ThisIsNotPascalCaseButItWill`
+
 ## [Capitalize](capitalize.js)
 
 This snippet capitalizes a string.\
