@@ -12,6 +12,11 @@ For example, `This is not camel case, but it will` will return `thisIsNotCamelCa
 This snippet converts a string to its PascalCase notation.\
 For example, `This is not pascal case, but it will` will return `ThisIsNotPascalCaseButItWill`
 
+## [kebab-case](kebab-case.js)
+
+This snippet converts a string to its kebab-case notation.\
+For example, `This is not kebab case, but it will` will return `this-is-not-kebab-case-but-it-will`
+
 ## [Capitalize](capitalize.js)
 
 This snippet capitalizes a string.\
