@@ -40,13 +40,18 @@ For example, let's say that you have an object full of numbers (some of them are
 ## [Join names](joinNames.js)
 
 This snippet joins names' array based on its length.\
-E.g.
+For example,
 
 -   `["Toti"]` will return `Toti`
 -   `["Toti", "John"]` will return `Toti and John`
 -   `["Toti", "John", "Mike"]` will return `Toti, John and Mike`
 
+## [Time options](timeOptions.js)
+
+This snippet will return an array with every time option for a given interval in minutes. This can be useful for dropdowns options.\
+For example, `getTimeOptions(45)` will return `['00:00', '00:45', '01:30', '02:15', '03:00', '03:45', '04:30', '05:15','06:00', '06:45', '07:30', '08:15', '09:00', '09:45', '10:30', '11:15', '12:00', '12:45', '13:30', '14:15', '15:00', '15:45', '16:30', '17:15', '18:00', '18:45', '19:30', '20:15', '21:00', '21:45', '22:30', '23:15']`
+
 ## [Unique values](uniqueValues.js)
 
 This snippet will return an array without repeating its values.\
-For example, `[1, 2, 2, 1, 3] will return [1, 2, 3]`
+For example, `[1, 2, 2, 1, 3]` will return `[1, 2, 3]`
