@@ -65,3 +65,8 @@ For example, `testemail@gmail.com` will return `test*****@gmail.com`
 
 This snippet will hash a string using a given hashing algorithm (`sha512` by default). This is useful for storing sensitive data securely.
 For example, `123456` will return `ba3253876aed6bc22d4a6ff...`
+
+## [Hours diff](./utils/hoursDiff.js)
+
+This snippet will return the hours difference between two Dates objects.
+For example, getting the diff from `2022-03-27` to `2022-03-30` will return `72`.
