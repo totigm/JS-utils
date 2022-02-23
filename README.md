@@ -60,3 +60,8 @@ For example, `[1, 2, 2, 1, 3]` will return `[1, 2, 3]`
 
 This snippet will hide the half of the email.\
 For example, `testemail@gmail.com` will return `test*****@gmail.com`
+
+## [Hash string](./utils/hashString.js)
+
+This snippet will hash a string using a given hashing algorithm (`sha512` by default). This is useful for storing sensitive data securely.
+For example, `123456` will return `ba3253876aed6bc22d4a6ff...`
