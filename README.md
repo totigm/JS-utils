@@ -55,3 +55,8 @@ For example, `getTimeOptions(45)` will return `['00:00', '00:45', '01:30', '02:1
 
 This snippet will return an array without repeating its values.\
 For example, `[1, 2, 2, 1, 3]` will return `[1, 2, 3]`
+
+## [Hide email](./utils/hideEmail.js)
+
+This snippet will hide the half of the email.\
+For example, `testemail@gmail.com` will return `test*****@gmail.com`
