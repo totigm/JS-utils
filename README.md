@@ -70,3 +70,7 @@ For example, `123456` will return `ba3253876aed6bc22d4a6ff...`
 
 This snippet will return the hours difference between two Dates objects.
 For example, getting the diff from `2022-03-27` to `2022-03-30` will return `72`.
+
+## [Dates utils](./utils/dates.js)
+This group of snippets will return the date and time in a more human friendly format.
+For example, running `getDateAndTime(new Date())` will return `Today at hh:mm`. If ran with a date from the previous day, it will return `Yesterday at hh:mm`. In any other case, it will return `dd/mm/yyyy at hh:mm`.
